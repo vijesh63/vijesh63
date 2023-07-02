@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijesh63
+- 👋 Hi, I’m Vijesh
 - 👀 I’m interested in Web Applications and  Artificial Intelligence
 - 🌱 I’m currently learning Django ,Flask and Tensorflow
 - 💞️ I’m looking to collaborate on Web Applications
