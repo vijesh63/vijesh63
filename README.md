@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijesh63
 - 👀 I’m interested in Web Applications and  Artificial Intelligence
-- 🌱 I’m currently learning Django ,Flask,Tensorflow
+- 🌱 I’m currently learning Django ,Flask and Tensorflow
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me ... vjvijesh63@gmail.com
 
